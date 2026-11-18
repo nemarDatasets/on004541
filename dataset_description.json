@@ -1,6 +1,6 @@
 {
   "Name": "Multimodal EEG-fNIRS data from patients undergoing general anesthesia",
-  "BIDSVersion": "1.6.0",
+  "BIDSVersion": "1.8.0",
   "DatasetType": "raw",
   "Authors": [
     "Catalina Saini Ferrón",
@@ -18,5 +18,5 @@
       "DOI": "doi:10.18112/openneuro.ds004541.v1.0.0"
     }
   ],
-  "Version": "1.0.0"
+  "Version": "1.0.1"
 }

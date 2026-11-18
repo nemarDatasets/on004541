@@ -1,2 +1,6 @@
+1.0.1 2026-11-18
+  - participants.tsv and 53 TSV files under sub-*/ses-*/eeg and nirs (electrodes, channels, events, optodes): UTF-8 byte-order mark removed; values unchanged
+  - dataset_description.json: BIDSVersion 1.6.0 -> 1.8.0 (the nirs datatype exists in BIDS from version 1.8.0)
+  - dataset_description.json: Version 1.0.0 -> 1.0.1
 1.0.0 2026-03-24
   - main
